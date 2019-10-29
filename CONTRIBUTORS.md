@@ -42,6 +42,13 @@
 - Github: https://github.com/samcode23
 ***
 
+### Chelsea Spangler
+- Photo: https://avatars0.githubusercontent.com/u/56610933?s=400&v=4
+- Location: Portland, OR, USA
+- Bio: Musician, environmentalist, knitter. Learning web development in hopes of a more stable career!
+- Github: https://github.com/cnspangler
+***
+
 ### Pratik Butani
 - Photo: https://avatars1.githubusercontent.com/u/3306366?s=460&v=4
 - Location: Ahmedabad, India
