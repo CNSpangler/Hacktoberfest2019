@@ -45,7 +45,7 @@
 ### Chelsea Spangler
 - Photo: https://avatars0.githubusercontent.com/u/56610933?s=400&v=4
 - Location: Portland, OR, USA
-- Bio: Musician, environmentalist, knitter. Learning web development in hopes of a more stable career!
+- Bio: Musician, environmentalist, knitter. Learning web development in hopes of a more stable career.
 - Github: https://github.com/cnspangler
 ***
 
